@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f82a434b87d4da0260468b4c5813d282",
-"assets/AssetManifest.json": "aac098ded5a454043e4c177007ef7a7e",
+const RESOURCES = {"assets/AssetManifest.bin": "21237294e3ad5918fe5ed9485f14a380",
+"assets/AssetManifest.json": "cf91350aeed2daed31ce0cb0ed7d5ed2",
 "assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
 "assets/assets/images/circulo_loading.gif": "5fa3bf555e108465c57d0ce961bd33c3",
 "assets/assets/images/foto_yamil.jpeg": "d8ca19c25cbc2263a27d169df7d2867a",
 "assets/assets/images/icons8-github.gif": "173d14df073478b4dfa4c58233ed1236",
+"assets/assets/images/instagram_icon.png": "875597c968ee64e7cf5afbdec5f95278",
+"assets/assets/images/linkedin_icon.png": "d2b6c44104204eb1644c41e0382b9656",
 "assets/assets/images/loading2.gif": "93c28f68945fdb6a638bc11ff39b053d",
 "assets/assets/images/logofl_dor.png": "b5d9a7133b9147de4d7ac5d77157d296",
 "assets/assets/images/logosdesk_trans.png": "dfb2cfb9606d6504bdf3ca68fb0524e7",
@@ -30,9 +32,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f82a434b87d4da0260468b4c5813d282
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0bd7e2375b8b0f779bcdf3ffd80fa236",
-"/": "0bd7e2375b8b0f779bcdf3ffd80fa236",
-"main.dart.js": "7897e05c5e42436d325d3b8711c8f669",
+"index.html": "0f021e36902ff6b8420f83a5cb21a739",
+"/": "0f021e36902ff6b8420f83a5cb21a739",
+"main.dart.js": "5e0bf63e02cf05a579b7ce52fa93ae69",
 "manifest.json": "10887400ff178e718b78fc2780bb1f51",
 "version.json": "d1ae22bf2528e9c3a99555f3ae35ffb1"};
 // The application shell files that are downloaded before a service worker can
