@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/"> <!-- Cambiado a la raíz -->
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- Evitar el caché -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="vertical_landing_page">
+  <link rel="apple-touch-icon" href="icons/icon_250.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favivon2.png"/>
+
+  <title>vertical_landing_page</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js?v=842575372');
+      });
+    }
+  </script>
+  <!-- Agregar un parámetro de versión para evitar el caché -->
+  <script src="main.dart.js?v=2" type="application/javascript"></script>
+</body>
+</html>
