@@ -75683,7 +75683,7 @@ r=A.aD(0,1200,0)
 q=t.T5
 q=new A.bn(B.ls,A.b6(A.b([s,A.bq(A.a6(A.kL(new A.k(4280411841),n*0.05),p,m*0.3),r),A.a6(p,20,p),new A.Lr(B.QP,10,10,A.Z(new A.ak(B.m9,new A.aiT(m),q),!0,q.h("aE.E")),p)],t.p),B.P,B.q,B.l),p)
 s=q}else s=A.b9(p,p,B.k,p,p,p,p,p,p,p,p,p,p,p)
-return A.b9(p,new A.hZ(new A.aiU(this),s,new A.bJ("skill-mobile",t.kK)),B.k,o.ax.k2,p,p,p,n*0.45,p,p,p,p,p,m)}}
+return A.b9(p,new A.hZ(new A.aiU(this),s,new A.bJ("skill-mobile",t.kK)),B.k,o.ax.k2,p,p,p,n*0.5,p,p,p,p,p,m)}}
 A.aiU.prototype={
 $1(a){var s
 if(a.gkT()>0.2){s=this.a
