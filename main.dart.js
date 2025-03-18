@@ -75685,7 +75685,7 @@ q=A.aD(0,1200,0)
 p=t.T5
 p=new A.bn(B.ls,A.b4(A.b([s,r,A.bq(A.a5(A.kL(new A.k(4280411841),m*0.05),o,l*0.3),q),A.a5(o,20,o),new A.Lr(B.QP,10,10,A.Z(new A.ak(B.m9,new A.aiT(l),p),!0,p.h("aE.E")),o)],t.p),B.P,B.o,B.l),o)
 s=p}else s=A.b9(o,o,B.k,o,o,o,o,o,o,o,o,o,o,o)
-return A.b9(o,new A.i_(new A.aiU(this),s,new A.bJ("skill-mobile",t.kK)),B.k,n.ax.k2,o,o,o,m*0.5,o,o,o,o,o,l)}}
+return A.b9(o,new A.i_(new A.aiU(this),s,new A.bJ("skill-mobile",t.kK)),B.k,n.ax.k2,o,o,o,m*0.6,o,o,o,o,o,l)}}
 A.aiU.prototype={
 $1(a){var s
 if(a.gkT()>0.2){s=this.a
